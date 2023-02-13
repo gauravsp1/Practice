@@ -1,0 +1,14 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Gaurav Pawar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
